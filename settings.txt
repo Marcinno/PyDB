@@ -1,0 +1,16 @@
+#create module saving all method name and mapping it to existing columns on database
+#all values will be save on json format
+#sample
+
+name : [x,x,x, ..... x]
+smar : [y,y,y,y,y ....., y]
+
+
+
+reading-out first positions ( name, smar .... )
+and save it to list
+next step reading-out second positions( in fly ? )
++ Question: Can we do it in fly ?
+
+
+

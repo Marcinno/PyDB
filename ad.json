@@ -1,0 +1,7 @@
+{
+  "nazwa_kraju" : ["Polska", "Maroko", "Jamajka", "Singapur"],
+  "imię" : ["Patrick", "John", "Michael"],
+  "nazwisko" : ["Kowalski", "Nowak", "Jankowski"],
+  "typ_produktu" : ["masło", "chleb"],
+  "nazwa_marki" : ["nike", "addidas"]
+}
